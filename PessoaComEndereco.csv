@@ -1,0 +1,3 @@
+Pessoa [codigo=1, nome=Paulo, endereco=Rua C, cidade=Rio janeiro]
+Pessoa [codigo=2, nome=Ana, endereco=Rua B, cidade=Curitiba]
+Pessoa [codigo=3, nome=Carlos, endereco=null, cidade=null]
